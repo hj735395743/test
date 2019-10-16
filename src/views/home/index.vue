@@ -15,7 +15,7 @@
       </el-aside>
       <el-main>
         <h3>{{userInfo.username}}，您好，欢迎您的到来！</h3>
-        <!-- <p>上次登录时间：{{lastLoginTime}}</p> -->
+        <p>上次登录时间：{{lastLoginTime}}</p>
       </el-main>
     </el-container>
     </van-tabs>
