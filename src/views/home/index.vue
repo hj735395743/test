@@ -5,6 +5,7 @@
       <van-tab title="标签 2">内容 2</van-tab>
       <van-tab title="标签 3">内容 3</van-tab>
       <van-tab title="标签 4">内容 4</van-tab>
+<<<<<<< HEAD
       <el-container class="top-info">
       <el-aside width="auto">
         <el-image
@@ -18,6 +19,8 @@
         <p>上次登录时间：{{lastLoginTime}}</p>
       </el-main>
     </el-container>
+=======
+>>>>>>> 0d86c5269bf81a3c1d5b63dfeabb0ffea0ce2260
     </van-tabs>
   </div>
 </template>
